@@ -1,5 +1,5 @@
 ### Hello
-I'm Jet Jacobs. I'm currently attending my Senior in software engineering at Iowa State University. 
+I'm Jet Jacobs. I'm currently attending my senior year in software engineering at Iowa State University. 
 
 ### What am I working on?
 * A IOT management app with accounts and real time data collection using MQTT

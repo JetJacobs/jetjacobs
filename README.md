@@ -1,11 +1,10 @@
 ### Hello
-I'm Jet Jacobs. I'm currently attending my senior year in software engineering at Iowa State University. 
+I'm Jet Jacobs, a recent graduate from Iowa State University's software engineering program. I have 
 
 ### What am I working on?
 * A IOT management app with accounts and real time data collection using MQTT
 * A machine learning expiriment with placments of POI on medical images
-* A project that aims to ease deployment across multiple platforms (More details eventually)
-* A book
+* A small python trading bot
 	
 As you can see, I currently have several projects up in the air. Between the lot and schooling I have very little time to take on any new projects, but am always open to help out where I can.
 	

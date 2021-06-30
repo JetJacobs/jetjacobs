@@ -1,5 +1,5 @@
 ### Hello
-I'm Jet Jacobs, a recent graduate from Iowa State University's software engineering program. I have 
+I'm Jet Jacobs, a recent graduate from Iowa State University's software engineering program.
 
 ### What am I working on?
 * A IOT management app with accounts and real time data collection using MQTT

@@ -1,4 +1,12 @@
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jetjacobs&show_icons=true&theme=transparent)
+# Hello I'm Jet
+
+<a href="https://github.com/jetjacobs">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jetjacobs&show_icons=true&theme=onedark" />
+</a>
+<a href="https://github.com/jetjacobs">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jetjacobs&layout=donut&langs_count=8&card_width=320" />
+</a>
+
 
 ### What am I working on?
 * A IOT management app with accounts and real time data collection using MQTT

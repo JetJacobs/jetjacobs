@@ -1,3 +1,5 @@
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jetjacobs&show_icons=true&theme=transparent)
+
 ### What am I working on?
 * A IOT management app with accounts and real time data collection using MQTT
 * A webhook library

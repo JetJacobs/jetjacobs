@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jetjacobs.jetjacobs" />
 
-### Hello! 
+<h3 align="center">I've been known to do the code</h3> 
 
 <p align="center">
 	<a href="https://github.com/jetjacobs">
@@ -56,17 +56,21 @@
 	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 	<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   </p>
-
 </details>
 
-### What am I working on?
-* A IOT management app with accounts and real time data collection using MQTT
-* A webhook library
-* A machine learning expiriment with placments of POI on medical images
-* A small python trading bot
-	
-As you can see, I currently have several projects up in the air. Between the lot and current employment I have very little time to take on any new projects, but am always open to help out where I can.
-	
-### What am I trying to learn?
-Recently I have been working on, and learning about API creation. I'm very intrested in IOT type projects and the issues that tend to come up when trying to deal with a large number of devices. 
-In the same vein, I have since been drawn to machine learning as a way of taking some of this IOT data and drawing meaningful conclusions from it. As of now these are my two main areas of interest.
+<details>
+	<summary><b>🔭 &nbsp;&nbsp;What&nbsp;am&nbsp;I&nbsp;working&nbsp;on?</b></summary>
+	<br/>
+	<ul>
+		<li>Telerad - Biokinemetrics</li>
+		<li>A IOT management app with accounts and real time data collection using MQTT</li>
+		<li>A webhook library</li>
+		<li>A machine learning expiriment with placments of POI on medical images</li>
+	</ul>
+</details>
+
+<details>
+	<summary><b>🌱 &nbsp;&nbsp;What&nbsp;am&nbsp;I&nbsp;learning?</b></summary>
+	<br/>
+	I have been drawn to machine learning as a way of taking large data sets (in my case medical images) and drawing meaningful conclusions from it. As of now this and IoT systems are my two main areas of interest.
+</details>

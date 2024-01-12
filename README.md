@@ -9,7 +9,7 @@
 	<a href="https://github.com/jetjacobs">
 	  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jetjacobs&layout=donut&langs_count=8&card_width=320" />
 	</a>
-	<img width=390 align="center" src="https://streak-stats.demolab.com?user=JetJacobs&theme=onedark&border_radius=10" alt="streak stats"/>
+<!-- 	<img width=390 align="center" src="https://streak-stats.demolab.com?user=JetJacobs&theme=onedark&border_radius=10" alt="streak stats"/> -->
 </p>
 
 <p align="center"> 
